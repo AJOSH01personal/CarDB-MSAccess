@@ -1,0 +1,143 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+Database1.accdb
+VCS Version 4.1.2
+Full Path: C:\Users\aathm\Documents\MSAccessDB_Practice\Database1.accdb
+Export Folder: C:\Users\aathm\Documents\MSAccessDB_Practice\Database1.accdb.src\
+Performing Full Export
+10/30/2026 12:06:36 AM
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No proj properties found in this database.
+No saved specs found in this database.
+No modules found in this database.
+No commandbars found in this database.
+No shared images found in this database.
+No imex specs found in this database.
+No forms found in this database.
+No macros found in this database.
+No reports found in this database.
+No table data found in this database.
+No table data macros found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  Database1.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Database1
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[2]
+-------------------------------------
+Exporting themes...           
+  Office Theme
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[52]
+-------------------------------------
+Exporting tables...           
+  Cars
+    Sanitized in 0.003 seconds.
+  Cars (SQL)
+  Models
+    Sanitized in 0.002 seconds.
+  Models (SQL)
+[2]
+-------------------------------------
+Exporting queries...          
+  CarsModelsQuery
+    Sanitized in 0.002 seconds.
+  CarsModelsQuery (SQL)
+[1]
+-------------------------------------
+Exporting relations...        
+  CarsModels
+[1]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[2]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+Added default .gitattributes file
+-------------------------------------
+Done. (0.72 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+DB Properties                 52        0.12
+Tables                        2         0.09
+Queries                       1         0.05
+Nav Pane Groups               1         0.04
+Doc Properties                2         0.04
+Project                       1         0.04
+Themes                        1         0.04
+VBE References                2         0.03
+Relations                     1         0.03
+VB Project                    1         0.02
+CommandBars                   0         0.02
+DB Connections                0         0.01
+Hidden Attributes             0         0.01
+Proj Properties               0         0.01
+Shared Images                 0         0.00
+Table Data Macros             0         0.00
+IMEX Specs                    0         0.00
+Table Data                    0         0.00
+VBE Forms                     0         0.00
+Macros                        0         0.00
+Reports                       0         0.00
+Forms                         0         0.00
+Saved Specs                   0         0.00
+Modules                       0         0.00
+--------------------------------------------------
+TOTALS:                       64        0.56
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Increment Progress            22        0.16
+Convert to JSON               494       0.14
+Scan DB Objects               1         0.10
+Console Updates               3         0.06
+Read File Bytes               4         0.04
+App.ExportXML()               2         0.02
+Write File                    13        0.01
+Format SQL                    1         0.01
+modFileAccess.VerifyPath      17        0.01
+Get File Property Hash        11        0.01
+Quick Count Files             1         0.01
+App.SaveAsText()              1         0.00
+Save Table SQL                2         0.00
+Quick Count Objects           1         0.00
+Sanitize File                 1         0.00
+Compute SHA256                31        0.00
+Sanitize XML                  2         0.00
+Format XML                    2         0.00
+Get Modified Date             16        0.00
+Delete File                   4         0.00
+Check for linked table        2         0.00
+Close Open Objects            1         0.00
+Export Theme                  1         0.00
+Save Query SQL                1         0.00
+Read File                     3         0.00
+modFileAccess.GetUncPath      2         0.00
+Clear Files by Ext            6         0.00
+--------------------------------------------------
+Other Operations                        0.14
+--------------------------------------------------
+
+

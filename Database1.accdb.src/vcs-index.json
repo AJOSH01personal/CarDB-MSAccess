@@ -1,0 +1,115 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "2026-10-30T04:06:40.000Z",
+    "FullExportDate": "2026-10-30T04:06:40.000Z",
+    "OptionsHash": "e599266",
+    "LastMergedCommit": "",
+    "Components": {
+      "DB Connections": {
+        "db-connection.json": {
+        }
+      },
+      "DB Properties": {
+        "dbs-properties.json": {
+          "FileHash": "4b4c5c9",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "cce6094"
+        }
+      },
+      "Doc Properties": {
+        "documents.json": {
+          "FileHash": "d09bb1d",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "1a89b1e"
+        }
+      },
+      "Hidden Attributes": {
+        "hidden-attributes.json": {
+        }
+      },
+      "Nav Pane Groups": {
+        "nav-pane-groups.json": {
+          "FileHash": "8b001dd",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "b540567"
+        }
+      },
+      "Proj Properties": {
+        "proj-properties.json": {
+        }
+      },
+      "Project": {
+        "project.json": {
+          "FileHash": "9fe41ad",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8d69611"
+        }
+      },
+      "Queries": {
+        "CarsModelsQuery.bas": {
+          "FileHash": "b0f4f82",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "859872c"
+        }
+      },
+      "Relations": {
+        "CarsModels.json": {
+          "FileHash": "cdd8b62",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "5f0a1f1"
+        }
+      },
+      "Tables": {
+        "Cars.xml": {
+          "FileHash": "f853e5a",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "efa8d9c"
+        },
+        "Models.xml": {
+          "FileHash": "bbf31b7",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "bdc4a70"
+        }
+      },
+      "Themes": {
+        "Office Theme.thmx": {
+          "FileHash": "12a14b1",
+          "OtherHash": "8d355d1",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "f2c3f59"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "FileHash": "b95a341",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "c5159da"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "FileHash": "c8d14f7",
+          "ExportDate": "2026-10-30T04:06:36.000Z",
+          "SourceModified": null,
+          "FilePropertiesHash": "8799f87"
+        }
+      }
+    }
+  }
+}

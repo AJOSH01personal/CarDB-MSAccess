@@ -1,0 +1,6 @@
+﻿CREATE TABLE [Cars] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [VehicleMake] VARCHAR (255),
+  [EVOptions] BIT,
+  [MakeDesc] VARCHAR (255)
+)
